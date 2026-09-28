@@ -79,30 +79,33 @@ player data to build the dashboard.
 
 ## Project Structure
 
+```text
 IPL-Analysis-PowerBI/
-│
 ├── IPL_Analysis.pbix
 ├── README.md
-│
 ├── IPL Data/
-│   ├── ball_by_ball_data.xlsx
-│   ├── ipl_matches_data.xlsx
-│   ├── players-data-updated.xlsx
-│   └── teams_data.xlsx
-│
-├── images Used/
-│   ├── Cricbuzz-Logo
-│   ├── IPL-Logo
-│   ├── Facebook_Logo
-│   ├── Instagram_icon
-│   ├── X-logo
-│   ├── Orange Cap
-│   ├── Purple Cap
-│   ├── tata-ipl-logo
-│   └── Youtube_logo
-│
-└── data (2026)/
-    └── [2026 IPL data files]
+│   ├── ball_by_ball_data.csv
+│   ├── ipl_matches_data.csv
+│   ├── players-data-updated.csv
+│   └── teams_data.csv
+├── Images Used/
+│   ├── Cricbuzz-Logo.png
+│   ├── Facebook_Logo.png
+│   ├── Instagram_icon.png
+│   ├── IPL-Logo.png
+│   ├── Orange Cap.png
+│   ├── Picture1.png
+│   ├── Purple Cap.png
+│   ├── X-Logo-Round-Color.png
+│   ├── X-logo.webp
+│   ├── Youtube_logo.png
+│   └── tata-ipl-logo.png
+└── data(2026)/
+    ├── ball_by_ball_data.csv
+    ├── ipl_matches_data.csv
+    ├── new_players_2026_review.csv
+    └── players-data-updated.csv
+```
 
 ## How to Use
 
