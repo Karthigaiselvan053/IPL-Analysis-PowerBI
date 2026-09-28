@@ -107,10 +107,7 @@ IPL-Analysis-PowerBI/
 │   ├── Youtube_logo.png
 │   └── tata-ipl-logo.png
 └── data(2026)/
-    ├── ball_by_ball_data.csv
-    ├── ipl_matches_data.csv
-    ├── new_players_2026_review.csv
-    └── players-data-updated.csv
+    └── [2026 IPL data files]
 ```
 
 ## How to Use
