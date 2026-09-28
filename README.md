@@ -10,6 +10,12 @@ statistics, match information, and season-wise insights. Users can
 select a season and explore the corresponding KPIs, top performers,
 points table, and match details.
 
+## Dashboard Preview
+
+![IPL Analysis Dashboard](Images%20Used/IPL-Dashboard.png)
+
+Interactive Power BI dashboard for analyzing IPL seasons from 2008 to 2026, including team performance, player statistics, match insights, KPIs, and season-wise points tables.
+
 ## Dashboard Highlights
 
 -   Season-wise IPL analysis from 2008--2026
